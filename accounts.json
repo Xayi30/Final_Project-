@@ -1,0 +1,32 @@
+[
+    {
+        "first_name": "Ahmednur",
+        "last_name": "Hassan",
+        "pin": "1234",
+        "balance": 637.5
+    },
+    {
+        "first_name": "Hunter",
+        "last_name": "Pope",
+        "pin": "5678",
+        "balance": 875.75
+    },
+    {
+        "first_name": "Derrick",
+        "last_name": "Williams",
+        "pin": "4321",
+        "balance": 450.0
+    },
+    {
+        "first_name": "Xayi",
+        "last_name": "Xayi",
+        "pin": "1234",
+        "balance": 342.0
+    },
+    {
+        "first_name": "lebron",
+        "last_name": "james",
+        "pin": "1234",
+        "balance": 6373.0
+    }
+]
